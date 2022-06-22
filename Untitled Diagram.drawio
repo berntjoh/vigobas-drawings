@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T13:31:05.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.2" etag="uwcBPvrMwgIEdHX7BtiY" type="github"><diagram id="uACBIN22wK5jjWGmalzL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-22T13:40:03.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lPQOkO4WcDc8KeD2UVvY" version="20.0.2" type="github">
+  <diagram id="uACBIN22wK5jjWGmalzL" name="Page-1">
+    <mxGraphModel dx="1258" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyDXELpyfhoJ8ZzLuacM-1" target="eyDXELpyfhoJ8ZzLuacM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-1" value="Visma ERP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eyDXELpyfhoJ8ZzLuacM-2" target="eyDXELpyfhoJ8ZzLuacM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-2" value="VIGO-BAS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eyDXELpyfhoJ8ZzLuacM-3" target="eyDXELpyfhoJ8ZzLuacM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-3" value="FINT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eyDXELpyfhoJ8ZzLuacM-4" target="eyDXELpyfhoJ8ZzLuacM-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-4" value="VIsma Inschool" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-8" value="Azure AD" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="760" y="248" width="70" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eyDXELpyfhoJ8ZzLuacM-9" target="eyDXELpyfhoJ8ZzLuacM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eyDXELpyfhoJ8ZzLuacM-9" value="Active Directory" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/active_directory.svg;" vertex="1" parent="1">
+          <mxGeometry x="485" y="427.5" width="50" height="42.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
